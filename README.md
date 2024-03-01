@@ -7,7 +7,7 @@ Welcome to the Git Commands Basics workshop! This workshop is designed to help y
 ## Prerequisites
 
 This is workshop for Linux, So before you begin, make sure you have the following installed on your linux server.
-
+ 
 ```
 apt install git
 ```
