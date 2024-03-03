@@ -5,7 +5,7 @@ t Commands
 Welcome to the Git Commands Basics workshop! This workshop is designed to help you get started with the fundamentals of Git, a distributed version control system. Whether you are new to Git or looking to refresh your knowledge, this workshop will guide you through essential Git commands and workflows.
 
 ## Prerequisites
-
+ 
 This is workshop for Linux, So before you begin, make sure you have the following installed on your linux server.
  
 ```
